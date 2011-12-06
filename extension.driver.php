@@ -6,11 +6,11 @@
 		
 		public function about(){
 			return array('name' => 'SMTP Email Library',
-						 'version' => '2.0',
-						 'release-date' => '2010-08-23',
-						 'author' => array('name' => 'Alistair Kearney',
-										   'website' => 'http://alistairkearney.com',
-										   'email' => 'hi@alistairkearney.com')
+						 'version' => '2.1',
+						 'release-date' => '2011-12-07',
+						 'author' => array('name' => 'Will Nielsen',
+										   'website' => 'http://nielsendigital.com',
+										   'email' => 'will@nielsendigital.com')
 				 		);
 		}
 		

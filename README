@@ -1,6 +1,13 @@
 SMTP Email Library
 ------------------------------------
+Version 2.1
+Author: Will Nielsen
+Build Date: 7 Dec 2011
+Requirements: Symphony 2.2 or above
 
+
+Forked From
+-------------------------------------
 Version: 2.0
 Author: Alistair Kearney (hi@alistairkearney.com)
 Build Date: 23rd Aug 2010
